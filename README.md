@@ -131,4 +131,4 @@ Error al validar: Cannot invoke "java.net.URL.toExternalForm()" because "locatio
 
 ## 📄 Licencia
 
-Proyecto académico — *(nombre de tu institución)*
+Proyecto académico 
