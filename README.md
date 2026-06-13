@@ -6,13 +6,16 @@ Aplicación de escritorio para la gestión de pedidos de una snackería rápida.
 
 ## 👥 Integrantes del grupo
 
-| Nombre | Rol |
-|--------|-----|
-| *(Nombre integrante 1)* | *(Rol)* |
-| *(Nombre integrante 2)* | *(Rol)* |
-| *(Nombre integrante 3)* | *(Rol)* |
+| Nombre |
+|--------|
+| Ashley Navarro|
+|Adubel Aguiar   | 
+| Romina espinoza  |
+|Emily Medrano  | 
+| alisson pinoargotty |
+| Ayumala Domenika | 
 
-> ✏️ **Reemplaza esta tabla con los nombres reales de tu grupo.**
+
 
 ---
 
