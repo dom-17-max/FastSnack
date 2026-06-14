@@ -45,7 +45,8 @@ Aplicación de escritorio para la gestión de pedidos de una snackería rápida.
 | ![Login exitoso](screenshots/ingreso.jpeg) | Mensaje de bienvenida tras iniciar sesión |
 | ![Productos](screenshots/07_productos.jpeg) | Menú de productos con precios |
 | ![Botón por pedido](screenshots/pedidoPorComida.jpeg) | Demostración del precio que se va acumulando |
-| ![Factura](screenshots/AutomatizaciónDelPedido) | Automatización del pedido |
+| ![Factura](screenshots/pedido.jpeg) | Automatización del pedido |
+| ![Factura](screenshots/otroPedido.jpeg) | Mensaje de sí desea hacer otro pedido con la misma factura |
 | ![Recibo](screenshots/09_recibo.jpeg) | Recibo de pago con subtotal, IVA y total |
 
 ---
