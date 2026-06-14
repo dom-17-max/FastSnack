@@ -35,13 +35,16 @@ Aplicación de escritorio para la gestión de pedidos de una snackería rápida.
 
 | Pantalla | Descripción |
 |----------|-------------|
-| ![Login](screenshots/01_login.jpeg) |Formulario de registro de cliente |
+| ![Registro](screenshots/01_login.jpeg) |Formulario de registro de cliente |
 | ![Validación campos](screenshots/05_registro_validacion.jpeg) | Validación: campos obligatorios |
 | ![Validación contraseña](screenshots/06_registro_contrasena.jpeg) | Validación: contraseña mínima 6 caracteres |
-| ![Registro](screenshots/04_registro.jpeg) | Pantalla de inicio de sesión |
+| ![Login](screenshots/04_registro.jpeg) | Pantalla de inicio de sesión |
 | ![Login exitoso](screenshots/02_login_exitoso.jpeg) | Mensaje de bienvenida tras iniciar sesión |
-| ![Olvidé mi contraseña](screenshots/02_login_exitoso.jpeg) | Mensaje de bienvenida tras iniciar sesión |
+| ![Olvidé mi contraseña](screenshots/codigo.jpeg) | Código de recuperación |
+| ![Contraseña recuperada](screenshots/contrasenactualizada.jpeg) | Validación exitosa |
+| ![Login exitoso](screenshots/ingreso.jpeg) | Mensaje de bienvenida tras iniciar sesión |
 | ![Productos](screenshots/07_productos.jpeg) | Menú de productos con precios |
+
 | ![Factura](screenshots/08_factura.jpeg) | Orden de compra / Factura |
 | ![Recibo](screenshots/09_recibo.jpeg) | Recibo de pago con subtotal, IVA y total |
 
@@ -118,18 +121,6 @@ FastSnack/
 ├── .gitignore
 └── README.md
 ```
-
----
-
-## ⚠️ Conocido: Error de imagen null en Login
-
-Al ejecutar en algunos entornos puede aparecer:
-```
-Error al validar: Cannot invoke "java.net.URL.toExternalForm()" because "location" is null
-```
-**Causa:** La imagen del logo (`/Imagenes/im.png`) no se encuentra en el classpath.  
-**Solución:** Verificar que la carpeta `Imagenes` esté marcada como fuente de recursos en NetBeans o que el archivo `im.png` exista en la ruta correcta dentro del proyecto.
-
 ---
 
 ## 📄 Licencia
