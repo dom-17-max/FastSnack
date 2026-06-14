@@ -35,12 +35,12 @@ Aplicación de escritorio para la gestión de pedidos de una snackería rápida.
 
 | Pantalla | Descripción |
 |----------|-------------|
-| ![Login](screenshots/01_login.jpeg) | Pantalla de inicio de sesión |
-| ![Login exitoso](screenshots/02_login_exitoso.jpeg) | Mensaje de bienvenida tras iniciar sesión |
-| ![Error login](screenshots/03_login_error.jpeg) | Error al validar credenciales |
 | ![Registro](screenshots/04_registro.jpeg) | Formulario de registro de cliente |
 | ![Validación campos](screenshots/05_registro_validacion.jpeg) | Validación: campos obligatorios |
+| ![Error login](screenshots/03_login_error.jpeg) | Error al validar credenciales |
 | ![Validación contraseña](screenshots/06_registro_contrasena.jpeg) | Validación: contraseña mínima 6 caracteres |
+| ![Login exitoso](screenshots/02_login_exitoso.jpeg) | Mensaje de bienvenida tras iniciar sesión |
+| ![Login](screenshots/01_login.jpeg) | Pantalla de inicio de sesión |
 | ![Productos](screenshots/07_productos.jpeg) | Menú de productos con precios |
 | ![Factura](screenshots/08_factura.jpeg) | Orden de compra / Factura |
 | ![Recibo](screenshots/09_recibo.jpeg) | Recibo de pago con subtotal, IVA y total |
