@@ -39,7 +39,6 @@ Aplicación de escritorio para la gestión de pedidos de una snackería rápida.
 | ![Validación campos](screenshots/05_registro_validacion.jpeg) | Validación: campos obligatorios |
 | ![Validación contraseña](screenshots/06_registro_contrasena.jpeg) | Validación: contraseña mínima 6 caracteres |
 | ![Registro](screenshots/04_registro.jpeg) | Pantalla de inicio de sesión |
-|
 | ![Login exitoso](screenshots/02_login_exitoso.jpeg) | Mensaje de bienvenida tras iniciar sesión |
 | ![Olvidé mi contraseña](screenshots/02_login_exitoso.jpeg) | Mensaje de bienvenida tras iniciar sesión |
 | ![Productos](screenshots/07_productos.jpeg) | Menú de productos con precios |
