@@ -8,12 +8,12 @@ Aplicación de escritorio para la gestión de pedidos de una snackería rápida.
 
 | Nombre |
 |--------|
-| Ashley Navarro|
-|Adubel Aguiar   | 
-|Romina espinoza  |
-|Emily Medrano  | 
-|Alisson pinoargotty |
-|Aumala Domenika | 
+| Ashley Navarro |
+| Adubel Aguiar   | 
+| Romina espinoza  |
+| Emily Medrano  | 
+| Alisson pinoargotty |
+| Domenika Aumala | 
 
 
 
